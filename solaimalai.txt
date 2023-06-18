@@ -1,0 +1,32 @@
+Log from b1 
+===========
+ae5e612 (HEAD -> b1) b1.txt added
+890cee8 (b4) .gitignore updated
+4b8a2ee (origin/main, origin/HEAD) ignore
+b568188 1st line
+01707ce Initial commit
+
+Log from b2
+===========
+a750442 (HEAD -> b2) Merge branch 'b1' into b2
+3947ec4 b2.txt added
+ae5e612 (b1) b1.txt added
+890cee8 (b4) .gitignore updated
+4b8a2ee (origin/main, origin/HEAD) ignore
+b568188 1st line
+01707ce Initial commit
+
+Log from b3
+===========
+46956d0 (HEAD -> b3) 5 commit
+b3125df 4 commit
+9231322 3 commit
+1149588 2 commit
+4f42ce4 1 commit
+a750442 (b2) Merge branch 'b1' into b2
+3947ec4 b2.txt added
+ae5e612 (b1) b1.txt added
+890cee8 (b4) .gitignore updated
+4b8a2ee (origin/main, origin/HEAD) ignore
+b568188 1st line
+01707ce Initial commit
